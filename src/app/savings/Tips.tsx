@@ -18,7 +18,7 @@ export default function Tips() {
             Saving is an important part of managing your finances but,having
             said that sometimes it is more beneficial to use your spare cash to
             clearany debts. As generally, the interest you pay for your
-            borrowing will almost certainly be more than the interest you 'll
+            borrowing will almost certainly be more than the interest you will
             receive from any savings <br />
             You should be keeping up with your minimum monthly repayments, but
             if you can afford overpayments (and if the leader allows you to do
